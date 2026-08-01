@@ -16,7 +16,7 @@
 ### 🚀 Featured projects
 
 - 💾 **[Zynq_SW_Eurobot](https://github.com/Les-opossums/Zynq_SW_Eurobot)** — Low-level software for the Opossum robot's Zynq-7000 SoC.
-- 🔌 **[Zynq_HW_Eurobot_2025](https://github.com/Les-opossums/Zynq_HW_Eurobot_2025)** — Hardware and PCB design for the 2025 robot.
+- 🔌 **[Zynq_HW_Eurobot_2025](https://github.com/Les-opossums/Zynq_HW_Eurobot_2025)** — Hardware design for the 2025 robot.
 
 ### 🛠️ Tech stack
 
