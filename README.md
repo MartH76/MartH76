@@ -13,15 +13,6 @@
 
 ### 🚀 Featured projects
 
-<div align="center">
-  <a href="https://github.com/Les-opossums/Zynq_SW_Eurobot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Les-opossums&repo=Zynq_SW_Eurobot&hide_border=true" alt="Zynq software repo" />
-  </a>
-  <a href="https://github.com/Les-opossums/Zynq_HW_Eurobot_2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Les-opossums&repo=Zynq_HW_Eurobot_2025&hide_border=true" alt="Zynq hardware repo" />
-  </a>
-</div>
-
 - 💾 **[Zynq_SW_Eurobot](https://github.com/Les-opossums/Zynq_SW_Eurobot)** — Low-level software for the Opossum robot's Zynq-7000 SoC.
 - 🔌 **[Zynq_HW_Eurobot_2025](https://github.com/Les-opossums/Zynq_HW_Eurobot_2025)** — Hardware and PCB design for the 2025 robot.
 
