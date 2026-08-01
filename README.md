@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Martin 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5e6c8,100:e3cfa3&height=200&section=header&text=Martin%20HUSSER&fontSize=60&fontColor=5c4033&animation=fadeIn&fontAlignY=38" alt="Martin HUSSER" width="100%" />
+</div>
 
 ---
 
@@ -44,6 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartH76&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
 
----
-
-<p align="center"><sub>⭐️ Thanks for stopping by my profile!</sub></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5e6c8,100:e3cfa3&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=5c4033&animation=twinkling&fontAlignY=68" alt="Thanks for stopping by!" width="100%" />
+</div>
