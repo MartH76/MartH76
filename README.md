@@ -29,23 +29,6 @@
 **Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-### 📊 GitHub stats
-
-<!-- Snake: eats my contributions, adapts to light/dark theme -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartH76/MartH76/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartH76/MartH76/output/github-snake.svg">
-    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/MartH76/MartH76/output/github-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartH76&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5e6c8,100:e3cfa3&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=5c4033&animation=twinkling&fontAlignY=68" alt="Thanks for stopping by!" width="100%" />
 </div>
